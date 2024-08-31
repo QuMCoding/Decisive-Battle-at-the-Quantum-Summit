@@ -23,3 +23,10 @@
 附錄：
 
 * [附錄一](https://colab.research.google.com/github/QuMCoding/Decisive-Battle-at-the-Quantum-Summit/blob/main/%E9%99%84%E9%8C%84/%E9%99%84%E9%8C%84%E4%B8%80.ipynb)
+
+## 套件安裝
+
+再本機執行時建議先執行以下指令安裝套件：
+```
+pip3 install -r requirements.txt
+```
