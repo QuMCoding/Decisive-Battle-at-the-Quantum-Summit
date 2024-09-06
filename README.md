@@ -2,11 +2,12 @@
 
 第二章：
 
-* [氫原子光譜繪製](https://colab.research.google.com/github/QuMCoding/Decisive-Battle-at-the-Quantum-Summit/blob/main/Chapter-2/Code_2.ipynb)
 
 第四章：
 
-* [無限深位能井](https://colab.research.google.com/github/QuMCoding/Decisive-Battle-at-the-Quantum-Summit/blob/main/Chapter-4/Code_4.ipynb)
+* [無限深位能井](https://colab.research.google.com/github/QuMCoding/Decisive-Battle-at-the-Quantum-Summit/blob/main/Chapter-4/Code_4-1.ipynb)
+
+* [氫原子光譜繪製](https://colab.research.google.com/github/QuMCoding/Decisive-Battle-at-the-Quantum-Summit/blob/main/Chapter-4/Code_4-4.ipynb)
 
 第五章：
 
